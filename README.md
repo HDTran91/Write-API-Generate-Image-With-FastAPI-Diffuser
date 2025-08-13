@@ -1,2 +1,1 @@
-# Write-API-Generate-Image-With-FastAPI-Diffuser
-Write-API-Generate-Image-With-FastAPI-Diffuser
+API-Generate-Image-With-FastAPI-Diffuser is a backend application that provides a REST API for generating images from text prompts using the Hugging Face Diffusers library. Built with FastAPI, it offers fast asynchronous endpoints for text-to-image generation, optional parameters for image size, guidance scale, and seeds, and returns the results as image files or Base64 strings. The project is designed for easy integration with web or mobile frontends, supports CORS for cross-origin requests, and can run locally or on GPU-enabled servers for faster inference.
